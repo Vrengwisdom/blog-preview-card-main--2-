@@ -37,7 +37,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: https://github.com/Vrengwisdom/blog-preview-card-main--2-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://vrengwisdom.github.io/blog-preview-card-main--2-/
 
 ## My process
 
@@ -50,7 +50,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/vrengwisdom)
+- Frontend Mentor - [@vreng wisdom](https://www.frontendmentor.io/profile/vrengwisdom)
 - Twitter - [@Vreng]https://www.twitter.com/VRENGWizdom
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
