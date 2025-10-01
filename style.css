@@ -17,11 +17,12 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-color: hsl(47, 88%, 63%);
 }
 
 main{
     padding: 1em;
-    box-shadow: 1em 1em 1px hsl(235, 0%, 0%);
+    box-shadow: .75em .75em 1px hsl(235, 0%, 0%);
     border: 1px solid hsl(235, 0%, 0%);
     border-radius: 1em;
     width: 320px;
